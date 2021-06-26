@@ -1,0 +1,3 @@
+,elementName,inputValues,elementFoundStatus
+0,Claim status,New,claims_found_successfully
+1,Owner type,Claimant,claims_found_successfully

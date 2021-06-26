@@ -1,0 +1,3 @@
+[
+    "{\"errors\":[{\"message\":\"ClaimCreate mutation error (legacy request id: 6479512c-2bc8-4a32-a7d4-5c6dcf913cab): Component Error ({\\\"error_type\\\":\\\"Component Error\\\",\\\"errors\\\":[[\\\"owner\\\",{\\\"home_phone\\\":[\\\"You must fill in at least one number.\\\"],\\\"mobile_phone\\\":[\\\"You must fill in at least one number.\\\"],\\\"work_phone\\\":[\\\"You must fill in at least one number.\\\"]}]]})\",\"locations\":[{\"line\":2,\"column\":3}],\"path\":[\"createClaim\"]}],\"data\":{\"createClaim\":null}}"
+]
