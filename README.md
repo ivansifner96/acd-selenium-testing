@@ -2,7 +2,7 @@
 
 There is a need for a little bit of configuration required for those scripts to work.
 
-1. There is 5 scripts in total and each of them can be run by typing :
+1. There are 5 scripts in total and each of them can be run by typing :
  python !scriptname!.py => eq. python claim_creation.py.
  Note that login script should not be run because it's solely purpose is
  to provide basic functions to other more important scripts.
